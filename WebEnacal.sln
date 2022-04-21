@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebEnacal", "WebEnacal\WebEnacal.csproj", "{845B4B05-8A59-4790-AE77-B1CA6304EBCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{845B4B05-8A59-4790-AE77-B1CA6304EBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845B4B05-8A59-4790-AE77-B1CA6304EBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845B4B05-8A59-4790-AE77-B1CA6304EBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845B4B05-8A59-4790-AE77-B1CA6304EBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB750521-634E-4071-9F94-EC6B3AA091C2}
+	EndGlobalSection
+EndGlobal
